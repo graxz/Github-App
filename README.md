@@ -2,19 +2,17 @@
 
 This is my first project using react and hooks together, there were not two repositories (back and front) because it is something initial in some future project I will do something complete!
 
-[TOCM]
-
 > enjoy that work!
 
-#how to put to work?
+# how to put to work?
 
-###run this
+### run this
 
 `$ npm install` and `$ npm init`
 
-###and lastly this...
+### and lastly this...
 
 `$ npm start`
 
-##how it works (with images)
+## how it works (with images)
 
