@@ -14,5 +14,5 @@ This is my first project using react and hooks together, there were not two repo
 
 `$ npm start`
 
-## how it works (with images)
+# how it works (with images)
 
